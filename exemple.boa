@@ -1,0 +1,21 @@
+texte="#FF0000Ceci est un exemple de ce que vous pouvez faire avec BoaScript!."
+texte="##--------------------------------------------------------------------------------------------"
+texte="Bienvenue dans la recette du pain perdu ! Pour commencer, voici les ingrédients dont vous aurez besoin : du pain, du lait, des oeufs, du sucre et de la cannelle."
+
+texte="Pour préparer la pâte, mélangez 2 oeufs avec 200 ml de lait. Ajoutez ensuite 2 cuillères à soupe de sucre et une pincée de cannelle. Mélangez bien le tout."
+
+texte="Découpez le pain en tranches d'environ 1 cm d'épaisseur. Trempez chaque tranche dans la pâte à pain perdu pour l'imprégner."
+
+texte="Faites chauffer une poêle avec un peu d'huile ou de beurre. Faites cuire les tranches de pain perdu jusqu'à ce qu'elles soient dorées de chaque côté."
+
+texte="##--------------------------------------------------------------------------------------------"
+
+
+choix1="Voulez-vous saupoudrer du sucre glace sur votre pain perdu ?"
+Solution1="Bonne idée ! Saupoudrez du sucre glace sur votre pain perdu encore chaud pour un effet sucré supplémentaire."
+
+choix2="Voulez-vous servir votre pain perdu avec de la crème fouettée ?"
+Solution2="Pourquoi pas ? Ajoutez une touche de gourmandise à votre pain perdu en le servant avec de la crème fouettée."
+
+choix3="Avez-vous aimé cette recette ?"
+Solution3="Merci d'avoir joué ! N'hésitez pas à refaire cette recette facile et délicieuse chez vous !"
